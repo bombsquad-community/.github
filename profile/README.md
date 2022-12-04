@@ -1,8 +1,8 @@
-# 📌 Bombsquad-Community-Server Discord
+## 📌 Bombsquad-Community Discord
 
 [![Bombsquad Discord](https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png)](https://discord.gg/ucyaesh)
 
-# ♥️ Bombsquad-community Contributors
+## ♥️ Bombsquad-community Contributors
 
 This is a list of contributors of bombsquad-community.
 
