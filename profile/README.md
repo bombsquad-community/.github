@@ -1,4 +1,4 @@
-# Welcome to the bombSquad Community! 
+# Welcome to the BombSquad Community! 
 ## About Us
 We are a group of enthusiastic gamers and developers who love the game "BombSquad" and are dedicated to enhancing its experience through modifications and plugins. Our community is driven by the passion for making BombSquad even more enjoyable for players around the world.
 
