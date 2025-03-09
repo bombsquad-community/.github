@@ -32,10 +32,12 @@ This is a list of contributors of bombsquad-community.
 
 [plugin-manager]: https://contrib.rocks/image?repo=bombsquad-community/plugin-manager
 [server-scripts]: https://contrib.rocks/image?repo=bombsquad-community/server-scripts
+[baport]: https://contrib.rocks/image?repo=bombsquad-community/baport
 [bombsquad-web]: https://contrib.rocks/image?repo=bombsquad-community/bombsquad-web
 
 |        🔻 Project        | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
 | 💻 [plugin-manager](https://github.com/bombsquad-community/plugin-manager) | [![plugin-manager]](https://github.com/bombsquad-community/plugin-manager/graphs/contributors) |
 | 💉 [server-scripts](https://github.com/bombsquad-community/server-scripts) | [![server-scripts]](https://github.com/bombsquad-community/server-scripts/graphs/contributors) |
+| 🔄 [baport](https://github.com/bombsquad-community/baport) | [![baport]](https://github.com/bombsquad-community/baport/graphs/contributors) |
 | 🧩 [bombsquad-web](https://github.com/bombsquad-community/bombsquad-web) | [![bombsquad-web]](https://github.com/bombsquad-community/bombsquad-web/graphs/contributors) |
