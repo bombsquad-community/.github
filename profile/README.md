@@ -41,4 +41,4 @@ This is a list of contributors of bombsquad-community.
 | 💉 [server-scripts](https://github.com/bombsquad-community/server-scripts) | [![server-scripts]](https://github.com/bombsquad-community/server-scripts/graphs/contributors) |
 | 🔄 [baport](https://github.com/bombsquad-community/baport) | [![baport]](https://github.com/bombsquad-community/baport/graphs/contributors) |
 | 🧩 [bombsquad-web](https://github.com/bombsquad-community/bombsquad-web) | [![bombsquad-web]](https://github.com/bombsquad-community/bombsquad-web/graphs/contributors) |
-| 🧩 [pterodactyl-egg](https://github.com/bombsquad-community/pterodactyl-egg) | [![pterodactyl-egg]](https://github.com/bombsquad-community/pterodactyl-egg/graphs/contributors) |
+| 🥚 [pterodactyl-egg](https://github.com/bombsquad-community/pterodactyl-egg) | [![pterodactyl-egg]](https://github.com/bombsquad-community/pterodactyl-egg/graphs/contributors) |
